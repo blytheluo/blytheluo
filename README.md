@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blytheluo
 - 👀 I’m interested in reading and cooking
 - 🌱 I’m currently trying to learn some SQL and Python
-- 💞️ I’m looking to collaborate on simple projects on the above languages
+- 💞️ I’m looking to collaborate on simple projects about the above languages
 - 📫 How to reach me blytheluo1128@gmail.com
 
 <!---
