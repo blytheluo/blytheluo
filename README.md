@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blytheluo
+- 👋 Hi, I’m JL
 - 👀 I’m interested in reading and cooking
 - 🌱 I’m currently trying to learn some SQL and Python
 - 💞️ I’m looking to collaborate on simple projects about the above languages
