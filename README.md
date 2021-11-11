@@ -1,6 +1,6 @@
-- 👋 Hi, I’m JL
-- 👀 I’m interested in reading and cooking
-- 🌱 I’m currently trying to learn some SQL and Python
+- 👋 Hi, It's JL here.
+- 👀 I’m interested in reading and cooking (coding soon)
+- 🌱 I’m currently trying to learn Python especially for machine learning.
 - 💞️ I’m looking to collaborate on simple projects about the above languages
 - 📫 How to reach me blytheluo1128@gmail.com
 
